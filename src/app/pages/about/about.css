@@ -1,0 +1,17 @@
+.about{
+  max-width: 800px;
+  margin: auto;
+  padding: 40px 20px;
+  color: white;
+}
+
+.about h1{
+  color: gold;
+  margin-bottom: 20px;
+}
+
+.about p{
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}

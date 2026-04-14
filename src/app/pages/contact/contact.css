@@ -1,0 +1,11 @@
+.contact {
+  max-width: 800px;
+  margin: auto;
+  padding: 40px 20px;
+  color: white;
+}
+
+.contact h1 {
+  color: gold;
+  margin-bottom: 20px;
+}
